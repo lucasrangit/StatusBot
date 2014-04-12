@@ -1,4 +1,4 @@
-SensorBot
+StatusBot
 =========
 
-The SensorBot.
+The StatusBot.
